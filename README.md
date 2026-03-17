@@ -14,9 +14,9 @@ Instead of managing keywords, briefs, and reports manually, AutoBizOps automates
 
 ---
 
-## Demo
+## Source Code
 
-Live demo: *(coming soon, stay tuned!)* 😊
+- **Full backend codebase:** [autobizops](https://github.com/katiapek/autobizops)
 
 ---
 
